@@ -3,6 +3,10 @@
   "displayName": "magefile",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorlepa/magefile-vscode"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
